@@ -1,0 +1,23 @@
+{
+  "name": "vertexmap",
+  "version": "0.0.1",
+  "description": "Use this to map vertex data which is array format to object format",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MikkoH/vertexmap.git"
+  },
+  "keywords": [
+    "vertex",
+    "map"
+  ],
+  "author": "Mikko Haapoja <me@mikkoh.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikkoH/vertexmap/issues"
+  },
+  "homepage": "https://github.com/MikkoH/vertexmap"
+}
